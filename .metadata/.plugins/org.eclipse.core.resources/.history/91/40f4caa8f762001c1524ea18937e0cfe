@@ -1,0 +1,13 @@
+package pack1;
+
+public class Sample1 extends Sample{
+	Sample b=new Sample();
+	public static void main(String[] args) {
+		
+		System.out.println("b");
+		
+	}
+	
+	
+
+}

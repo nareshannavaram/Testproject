@@ -1,0 +1,11 @@
+package pack1;
+
+public class Sample2 {
+int x=5;
+	public static void main(String[] args) {
+Sample2 s=new Sample2();
+s.x=25;
+System.out.println(s.x);
+	}
+
+}

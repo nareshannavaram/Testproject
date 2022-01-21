@@ -1,0 +1,13 @@
+package pack1;
+
+public class Sample {
+	public void m1() {
+		int a=24;
+	}
+	
+	
+	/*
+	 * public static void main(String[] args) { System.out.println("a"); }
+	 */
+
+}
